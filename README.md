@@ -41,7 +41,3 @@
 - **Kỹ năng giao tiếp**: Truyền đạt và trao đổi công việc tốt, có thể phối hợp hiệu quả với các thành viên team và thảo luận với team leader về phân bổ nhiệm vụ.
 - **Kỹ năng QC và kiểm thử**: Nắm vững các kỹ thuật cơ bản trong QC và test sản phẩm.
 - **Kiến thức quản lý tài liệu**: Biết sử dụng các công cụ quản lý tài liệu như Google Drive, Google Sheet, Trello, và duy trì tổ chức tài liệu.
-
----
-
-Với những nhiệm vụ và kỹ năng trên, admin này sẽ trở thành cánh tay đắc lực trong việc quản lý công việc và theo dõi tiến độ, giúp bạn quản lý team hiệu quả hơn và nâng cao chất lượng dự án.
