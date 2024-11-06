@@ -33,9 +33,10 @@
    - Tổ chức các cuộc họp định kỳ của team, lập biên bản cuộc họp và theo dõi các hành động tiếp theo.
    - Đóng vai trò đầu mối liên lạc giữa các thành viên trong team, hỗ trợ việc trao đổi thông tin hiệu quả.
 
-### Yêu Cầu Kỹ Năng
+### Yêu Cầu Kỹ Năng:
 - **Kỹ năng báo cáo và thống kê**: Khả năng phân tích và trình bày dữ liệu rõ ràng, đưa ra các báo cáo chi tiết và trực quan để hỗ trợ team leader trong việc giám sát công việc và ngân sách.
 - **Kỹ năng quản lý thời gian và tổ chức**: Theo dõi, quản lý tài nguyên và thời gian hiệu quả.
 - **Kỹ năng giao tiếp**: Truyền đạt và trao đổi công việc tốt, có thể phối hợp hiệu quả với các thành viên team và thảo luận với team leader về phân bổ nhiệm vụ.
+- **Kiến thức căn bản về web-development:** Kiến thức căn bản về lập trình, terminal, http/https, etc.
 - **Kỹ năng QC và kiểm thử**: Nắm vững các kỹ thuật cơ bản trong QC và test sản phẩm.
 - **Kiến thức quản lý tài liệu**: Biết sử dụng các công cụ quản lý tài liệu như Google Drive, Google Sheet, Trello, và duy trì tổ chức tài liệu.
