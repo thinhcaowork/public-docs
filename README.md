@@ -44,4 +44,4 @@
 
 ---
 
-Với những nhiệm vụ và kỹ năng trên, nữ admin này sẽ trở thành cánh tay đắc lực trong việc quản lý công việc và theo dõi tiến độ, giúp bạn quản lý team hiệu quả hơn và nâng cao chất lượng dự án.
+Với những nhiệm vụ và kỹ năng trên, admin này sẽ trở thành cánh tay đắc lực trong việc quản lý công việc và theo dõi tiến độ, giúp bạn quản lý team hiệu quả hơn và nâng cao chất lượng dự án.
