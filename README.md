@@ -40,7 +40,7 @@
 - **Kỹ năng quản lý thời gian và tổ chức**: Theo dõi, quản lý tài nguyên và thời gian hiệu quả.
 - **Kỹ năng giao tiếp**: Truyền đạt và trao đổi công việc tốt, có thể phối hợp hiệu quả với các thành viên team và thảo luận với team leader về phân bổ nhiệm vụ.
 - **Kỹ năng QC và kiểm thử**: Nắm vững các kỹ thuật cơ bản trong QC và test sản phẩm.
-- **Kiến thức quản lý tài liệu**: Biết sử dụng các công cụ quản lý tài liệu như Google Drive, Notion hoặc Confluence, và duy trì tổ chức tài liệu.
+- **Kiến thức quản lý tài liệu**: Biết sử dụng các công cụ quản lý tài liệu như Google Drive, Google Sheet, Trello, và duy trì tổ chức tài liệu.
 
 ---
 
