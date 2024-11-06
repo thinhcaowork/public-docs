@@ -1,6 +1,4 @@
-# public-docs
-
-# Vai Trò và Nhiệm Vụ Của Admin Dev:
+# Vai Trò và Nhiệm Vụ Của Admin/QC Dev:
 
 ### Vai Trò Chính
 - **Hỗ trợ quản lý công việc**: Theo dõi và báo cáo tiến độ công việc của các thành viên trong team.
